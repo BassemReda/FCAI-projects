@@ -1,0 +1,11 @@
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\bin\Debug\MovieRental.exe.config
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\bin\Debug\MovieRental.exe
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\bin\Debug\MovieRental.pdb
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.AddingMovie.resources
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.Main.resources
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.Properties.Resources.resources
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.exe
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.pdb
+C:\Users\Andrew\Desktop\MovieRental\MovieRental\obj\Debug\MovieRental.UpdateMovie.resources
